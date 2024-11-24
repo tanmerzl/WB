@@ -30,7 +30,7 @@ ORDER BY
   		o.product_id, p.product_name, p.product_category)
 SELECT 
 	--pa.product_name, -- посмотреть название продукта
-    --pa.product_total_amount, -- и его суммарную выручку
+    	--pa.product_total_amount, -- и его суммарную выручку
   	pa.product_category
     
 FROM 
