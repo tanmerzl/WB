@@ -4,3 +4,5 @@
 - `Sorting and grouping`
 - `Join`
 - `Window functions`
+#### Задание по Python и EDA
+- `Python`
