@@ -6,3 +6,5 @@
 - `Window functions`
 #### Задание по Python и EDA
 - `Python`
+#### Финальное задание по Go: создание сервера
+- `Go`
